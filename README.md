@@ -8,11 +8,6 @@ The four countries are compared on 14 macroeconomic and regulatory factors (2021
  
 **Result: China is the most feasible location**, thanks to its stable economy, strong manufacturing base, large reserves and solid banking system. Tanzania, Kazakhstan and Colombia each have structural weaknesses (bureaucracy, commodity dependence, and trade deficits with high inflation, respectively).
  
-## Authors
- 
-Najiza Israt Rifa, Samia Shafi, Sumiya Rahman, Maisara Simin
- 
-Submitted to Abdullah Al Mamun, Department of Accounting & Finance, North South University (10 May 2026).
- 
+
 *Prepared for academic purposes only.*
  
